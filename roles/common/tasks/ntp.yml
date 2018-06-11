@@ -1,3 +1,6 @@
+# Purpose: Configure NTP
+# Last Updated: 2018.06.11
+# Notes:
 ---
 
 # https://github.com/geerlingguy/ansible-role-ntp/blob/master/tasks/main.yml
