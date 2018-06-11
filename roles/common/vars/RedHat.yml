@@ -1,6 +1,7 @@
-# Purpose: FreeBSD specific vars
+---
+# Purpose: RHEL/CentOS specific vars
 # Last Updated: 2018.06.11
 # Notes:
----
+
 
 ntp_service: ntpd
