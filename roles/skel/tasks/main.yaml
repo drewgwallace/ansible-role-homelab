@@ -1,4 +1,7 @@
+# Purpose:
+# Notes:
 ---
+
 
 - include_tasks: os_vars.yaml
 
